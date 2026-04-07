@@ -47,14 +47,6 @@ npm run dev
 
 Allow location access for the full experience!
 
-## 🏗️ Deploy
-
-```bash
-npm run build
-terraform init && terraform apply
-```
-
-Deploys to CloudFront + S3 in us-east-1.
 
 ## 🛠️ Built With
 
