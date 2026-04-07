@@ -36,6 +36,7 @@ Watch in real-time as Auntie Tigress slowly creeps toward your home on a waterco
 │  🌙 Better go to sleep… 🌙      │
 └──────────────────────────────────┘
 ```
+![Auntie Tigress Tracker Preview](preview.png)
 
 ## 🚀 Getting Started
 
